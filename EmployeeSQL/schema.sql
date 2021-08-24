@@ -12,13 +12,13 @@ CREATE TABLE departments (
 );
 
 CREATE TABLE dept_emp (
-  dept_no character varying(10) NOT NULL,
-  emp_no character varying(30) NOT NULL
+  emp_no integer NOT NULL,
+  dept_no character varying(10) NOT NULL
 );
 
 CREATE TABLE dept_manager (
   dept_no character varying(10) NOT NULL,
-  emp_no character varying(30) NOT NULL	
+  emp_no integer NOT NULL
 );
 
 CREATE TABLE employees (
@@ -32,7 +32,7 @@ CREATE TABLE employees (
 );
 
 CREATE TABLE salaries (
-  emp_no character varying(30) NOT NULL,
+  emp_no integer NOT NULL,
   salary integer NOT NULL
 );
 
