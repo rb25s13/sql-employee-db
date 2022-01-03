@@ -7,7 +7,21 @@
 
 <h2 align="center">Design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data.</h2>
 			
-							
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>SQLAlchemy</li>
+<li>Matplotlib</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+<li>PostgreSQL</li>
+<li>SQL</li>
+<li>QuickDBD</li>
+</details>
+
+
 ### Contents:
 
         /data - csv files with employee data from the 1980s and 1990s
