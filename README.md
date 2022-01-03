@@ -13,7 +13,7 @@
         /data - csv files with employee data from the 1980s and 1990s
         /EmployeeSQL - SQL files for db queries and ipynb file for visualizations
 
-### Questions:
+### Queries:
 	
 1. List the following details of each employee: employee number, last name, first name, sex, and salary.
 
@@ -30,3 +30,10 @@
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+### Charts:
+
+<p align="center"><img src='./data/img/avg-salary.png'></p>
+
+
+<p align="center"><img src='./data/img/salary-range.png'></p>
